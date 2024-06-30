@@ -1,4 +1,4 @@
-# Allora-Network-Worker-Guide
+# Allora Network Worker Node Setup Guide
 
 <p align="center">
 <img src='FundRaise.jpg' width='900'>
@@ -382,7 +382,7 @@ sudo docker compose up -d
 docker ps
 ```
 
-
+# More Latest Update [Join Telegram Here](https://t.me/hiddengemnews)
 
 
 
