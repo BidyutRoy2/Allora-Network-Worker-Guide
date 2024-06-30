@@ -18,6 +18,8 @@ The AI/ML agents within the Allora Network use their data and algorithms to broa
 ## Documentation
 For the latest documentation [HERE](https://docs.allora.network) and [Repo HERE](https://github.com/allora-network/allora-chain)
 
+# [How to install Linux on Windows with WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
+
 
 ## Install Node Windows WSL Open PowerShell Following Command
 
