@@ -1,7 +1,7 @@
 # Allora-Network-Worker-Guide
 
 <p align="center">
-<img src='https://github.com/allora-network/allora-chain/blob/main/assets/AlloraLogo.jpeg' width='200'>
+<img src='FundRaise.jpg' width='200'>
 <a href="https://goreportcard.com/badge/github.com/allora-network/allora-chain">
     <img src="https://goreportcard.com/badge/github.com/allora-network/allora-chain">
 </a>
