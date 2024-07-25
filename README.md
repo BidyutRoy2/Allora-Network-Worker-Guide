@@ -146,7 +146,7 @@ allorad keys add testkey
 
 ### 9.2 Register With Keplr > [Go To HERE](https://app.allora.network?ref=eyJyZWZlcnJlcl9pZCI6IjUxYTU2ZmJhLWMwODItNGIxNy1hOGVmLTE5ZTc5YWE4ZWU5MiJ9) 
 
-### 9.3 Claim Faucet > [Go To HERE](https://faucet.testnet.allora.network)
+### 9.3 Claim Faucet > [Go To HERE](https://faucet.testnet-1.testnet.allora.network)
 
 
 # 10 Install Worker
