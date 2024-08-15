@@ -138,7 +138,7 @@ chmod +x init.config
 docker compose up --build
 ```
 
-### Wait For Download Complete 100% & Don't Close This Terminal If You Use WSL
+### Wait For Download Complete 100% & Don't Close This Terminal If You Use WSL (Minimize Terminal)
 
 ## Open New Terminal & Run Code
 
@@ -154,7 +154,7 @@ docker compose ps
 ```
 docker compose logs -f worker
 ```
-## Don't Close This Terminal If You Use WSL
+## Don't Close This Terminal If You Use WSL (Minimize Terminal)
 
 
 ## Restart Node - If VPS/WSL PC Shutdown
