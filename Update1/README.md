@@ -126,7 +126,7 @@ nano config.json
 }
 ```
 
-# Save File - ``CTRL+X & Y & Hit ENTER BUTTON``
+## Save File - ``CTRL+X`` & ``Y`` & Hit ``ENTER`` BUTTON
 
 
 ```
