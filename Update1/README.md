@@ -1,6 +1,5 @@
-
 <p align="center">
-<img src='FundRaise.jpg' width='700'>
+<img src='https://github.com/BidyutRoy2/Allora-Network-Worker-Guide/blob/main/FundRaise.jpg' width='700'>
 <a href="https://goreportcard.com/badge/github.com/allora-network/allora-chain">
     <img src="https://goreportcard.com/badge/github.com/allora-network/allora-chain">
 </a>
