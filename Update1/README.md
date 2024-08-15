@@ -48,3 +48,11 @@ wget https://raw.githubusercontent.com/BidyutRoy2/Allora-Network-Worker-Guide/ma
 ![image](https://github.com/user-attachments/assets/d3000af7-663a-44c6-8282-f408d9185891)
 
 - It means your node is running
+
+
+
+# ▄︻デ𝙂𝙚𝙩 𝙇𝙖𝙩𝙚𝙨𝙩 𝘼𝙞𝙧𝙙𝙧𝙤𝙥𝙨 & 𝙐𝙥𝙙𝙖𝙩𝙚𝙨═━一
+
+### ▄︻デ𝙅𝙤𝙞𝙣 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢═━一 [🎀  𝐻𝒾𝒹𝒹𝑒𝓃 𝒢𝑒𝓂  🎀](https://t.me/hiddengemnews) 
+
+### ░▒▓█►─═  𝓗𝓲𝒹ᗪ𝓔η Ǥέ𝕄 ═─◄█▓▒░
