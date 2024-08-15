@@ -140,3 +140,25 @@ docker ps
 echo
 execute_with_prompt 'docker logs -f worker'
 echo
+
+echo -e '\e[40m\e[92m'
+
+echo -e ' ##   ##   ######  #####    #####    #######  ##    ## '
+echo -e ' ##   ##     ##    ##  ##   ##  ##   ##       ###   ## '
+echo -e ' ##   ##     ##    ##   ##  ##   ##  ##       ## #  ## '
+echo -e ' #######     ##    ##   ##  ##   ##  #####    ##  # ## '
+echo -e ' ##   ##     ##    ##   ##  ##   ##  ##       ##   ### '
+echo -e ' ##   ##     ##    ##  ##   ##  ##   ##       ##    ## '
+echo -e ' ##   ##   ######  #####    #####    #######  ##    ## '
+                                                      
+echo -e '        #####     #######  ##     ## '
+echo -e '       ##   ##    ##       ###   ### ' 
+echo -e '       ##         ##       ## # # ## '  
+echo -e '       ##  #####  #####    ##  #  ## '  
+echo -e '       ##   ## #  ##       ##     ## '  
+echo -e '       ##   ## #  ##       ##     ## '  
+echo -e '        #####     #######  ##     ## '
+
+echo -e ' Wellcome To Hidden Gem Node Running Installation Guide '
+
+echo -e '\e[0m'
