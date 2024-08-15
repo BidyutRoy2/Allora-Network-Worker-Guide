@@ -1,3 +1,6 @@
+
+# Allora Node Updated Guide
+
 <p align="center">
 <img src='https://github.com/BidyutRoy2/Allora-Network-Worker-Guide/blob/main/FundRaise.jpg' width='700'>
 <a href="https://goreportcard.com/badge/github.com/allora-network/allora-chain">
