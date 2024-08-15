@@ -49,7 +49,7 @@ wget https://raw.githubusercontent.com/BidyutRoy2/Allora-Network-Worker-Guide/ma
 
 - It means your node is running
 
-## Restart Node 
+## Restart Node - If VPS/WSL Shutdown
 
 ```
 cd basic-coin-prediction-node
