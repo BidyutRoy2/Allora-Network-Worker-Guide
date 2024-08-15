@@ -49,6 +49,14 @@ wget https://raw.githubusercontent.com/BidyutRoy2/Allora-Network-Worker-Guide/ma
 
 - It means your node is running
 
+## Restart Node 
+``
+cd basic-coin-prediction-node
+``
+``
+sudo docker compose up -d
+``
+
 
 
 # ▄︻デ𝙂𝙚𝙩 𝙇𝙖𝙩𝙚𝙨𝙩 𝘼𝙞𝙧𝙙𝙧𝙤𝙥𝙨 & 𝙐𝙥𝙙𝙖𝙩𝙚𝙨═━一
