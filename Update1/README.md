@@ -138,6 +138,8 @@ chmod +x init.config
 docker compose up --build
 ```
 
+### Wait For Download Complete 100% & Don't Close This Terminal If You Use WSL
+
 ## Open New Terminal & Run Code
 
 
