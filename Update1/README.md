@@ -154,6 +154,7 @@ docker compose ps
 ```
 docker compose logs -f worker
 ```
+## Don't Close This Terminal If You Use WSL
 
 
 ## Restart Node - If VPS/WSL PC Shutdown
