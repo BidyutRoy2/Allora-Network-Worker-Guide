@@ -50,9 +50,11 @@ wget https://raw.githubusercontent.com/BidyutRoy2/Allora-Network-Worker-Guide/ma
 - It means your node is running
 
 ## Restart Node 
+
 ``
 cd basic-coin-prediction-node
 ``
+
 ``
 sudo docker compose up -d
 ``
