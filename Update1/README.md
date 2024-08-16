@@ -159,6 +159,34 @@ docker compose logs -f worker
 
 ## Restart Node - If VPS/WSL PC Shutdown
 
+### Open 1st Terminal & Run Command
+
+```
+cd basic-coin-prediction-node
+```
+
+```
+docker compose up --build
+```
+
+### Open 2nd Terminal & Run Command
+
+```
+cd basic-coin-prediction-node
+```
+
+```
+docker compose ps
+```
+
+```
+docker compose logs -f worker
+```
+
+## Note: Minimize 1st & 2nd Terminal & Run PC If WSL (No Need For VPS)
+
+### Check Note Status
+
 ```
 cd basic-coin-prediction-node
 ```
